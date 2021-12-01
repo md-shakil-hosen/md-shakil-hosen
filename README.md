@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](/)**
 
-- 📫 How to reach me **shakilinfo91@@gmail.com**
+- 📫 How to reach me **shakilinfo91@gmail.com**
 
 - ⚡ Fun fact **I also love Watched English Movie.**
 
