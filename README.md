@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](/)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://shakil-dev.netlify.app/)**
 
 - 📫 How to reach me **shakilinfo91@gmail.com**
 
