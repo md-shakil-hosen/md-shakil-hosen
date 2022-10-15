@@ -1,6 +1,6 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="100px"/></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&width=435&lines=Hi+%2C+I'm+Shakil;hello" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&pause=1000&center=true&vCenter=true&width=435&lines=Hi+%2C+I'm+Shakil" alt="Typing SVG" /></a>
 <h3 align="center">I'm a passionate Front-End Developer from Bangladesh.</h3>
 
 
