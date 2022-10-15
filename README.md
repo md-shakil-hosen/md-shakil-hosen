@@ -19,7 +19,7 @@
 - ⚡ Fun fact **I also love Watched English Movie.**
 
 ## 🚀 Languages and Tools:
-![C#](https://img.shields.io/badge/c#-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
+<!-- ![C#](https://img.shields.io/badge/c#-%2300599C.svg?style=flat-square&logo=c&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat-square&logo=heroku&logoColor=white) 
@@ -52,9 +52,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white) 
-![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white)
+![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=flat-square&logo=eslint&logoColor=white) -->
 
-<!-- <p align="left"> 
+ <p align="left"> 
     <a href="https://www.w3school.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
     <a href="https://www.w3schoo.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
     <a href="www.w3school.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
@@ -66,7 +66,7 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/api.png"/> </a>
 </p>
- -->
+
 ## 🚀 Design Tools:
 
  <p align="left">
