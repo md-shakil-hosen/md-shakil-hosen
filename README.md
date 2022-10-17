@@ -30,6 +30,11 @@
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/api.png"/> </a>
+     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> </a>
+     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/weebly.png"/> </a>
+     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/wix.png"/> </a>
+      <a href="https://expressjs.com" target="_blank"> <img src=" https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/> </a>
+    
 </p>
 
 ## 🚀 Design Tools:
@@ -39,6 +44,8 @@
     <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png"/></a>
     <a href="https://figma.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/figma.png"/></a>
     <a href="https://figma.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/adobe-xd.png"/></a>
+    <a href="https://figma.com" target="_blank"><img src="https://img.icons8.com/dusk/48/000000/canva-app.png"/></a>
+
  </p>
 <br/>
 
