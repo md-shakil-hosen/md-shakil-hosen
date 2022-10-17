@@ -22,14 +22,15 @@
  <p align="left"> 
     <a href="https://www.w3school.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
     <a href="https://www.w3schoo.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
-    <a href="www.w3school.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+    <a href="www.w3school.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
+  <a href="www.w3school.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> </a> 
     <a href="https://developer.mozilla.org/en-US/docs/Web/ReactJs" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a> 
     <a href="https://www.nodejs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/></a> 
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
  <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/></a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
+<!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/api.png"/> </a>
      <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> </a>
      <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/weebly.png"/> </a>
@@ -75,6 +76,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shakil_nx/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shakil-hosen/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nx_shakil) 
+[![Discord](https://img.shields.io/badge/Discord-%231DA1F2.svg?logo=Discord&logoColor=white)](https://discord.com/channels/1031213306150662194/1031213306150662200)
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
