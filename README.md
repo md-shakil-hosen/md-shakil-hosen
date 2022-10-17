@@ -29,12 +29,13 @@
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a>   
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
- <a href="https://expressjs.com" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/></a>
+ <a href="https://vscode.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> </a> 
+ <a href="https://netlify.app" target="_blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-color-tal-revivo.png"/></a>
 <!--     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a> -->
-    <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/api.png"/> </a>
-     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> </a>
-     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/weebly.png"/> </a>
-     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/wix.png"/> </a>
+<!--     <a href="https://expressjs.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/api.png"/> </a> -->
+     <a href="https://wordpress.com" target="_blank"> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/> </a>
+     <a href="https://weebly.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/weebly.png"/> </a>
+     <a href="https://wix.com" target="_blank"> <img src="https://img.icons8.com/windows/48/22C3E6/wix.png"/> </a>
 
     
 </p>
