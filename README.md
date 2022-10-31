@@ -2,7 +2,7 @@
 
 <!-- https://i.ibb.co/BzbsbKP/Group-1-1.png -->
 <h1 align="center" font-size="40px"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&pause=1000&color=F7F7F7&center=true&vCenter=true&width=531&height=52&lines=+Hi%2C+I'm+Shakil+;A+passionate+Front-End+Web+Developer;React+Developer" alt="Typing SVG" /></a></h1>
-<h3 align="center">“Programming is not easy like Sunday morning, it is silent poetry.”.</h3>
+<h3 align="center">“𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 𝐢𝐬 𝐧𝐨𝐭 𝐞𝐚𝐬𝐲 𝐥𝐢𝐤𝐞 𝐒𝐮𝐧𝐝𝐚𝐲 𝐦𝐨𝐫𝐧𝐢𝐧𝐠, 𝐢𝐭 𝐢𝐬 𝐬𝐢𝐥𝐞𝐧𝐭 𝐩𝐨𝐞𝐭𝐫𝐲.”.</h3>
 
 
 ## 🙋‍♂️ About Me
