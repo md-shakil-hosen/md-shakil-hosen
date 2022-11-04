@@ -42,7 +42,7 @@
     
 </p>
 
-## 🚀 Design Tools:
+## 🖌️ Design Tools:
 
  <p align="left">
  <a href="https://adobe.com" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/adobe-photoshop.png"/></a>
