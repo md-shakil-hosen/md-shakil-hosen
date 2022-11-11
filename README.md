@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I also love Watched English Movie.**
 
-## 🚀 Languages and Tools:
+## ⚙️ Languages and Tools:
  <p align="left"> 
     <a href="https://www.w3school.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> </a>
     <a href="https://www.w3schoo.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
@@ -53,7 +53,8 @@
 
  </p>
 <br/>
-##
+
+## 🔷Current Strike
 <p align="center">
     <a href="https://github.com/md-shakil-hosen/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shakil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shakil-hosen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
