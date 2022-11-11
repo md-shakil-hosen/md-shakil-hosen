@@ -83,8 +83,8 @@
 [![Skype](https://img.shields.io/badge/skype-%231DA1F2.svg?logo=skype&logoColor=white)](https://www.skype.com/live:.cid.c6e5fa29e3e4f179)
 [![Dribbble](https://img.shields.io/badge/dribbble-%231DA1F2.svg?logo=dribbble&logoColor=white)](https://dribbble.com/nx_shakil)
 [![YouTube](https://img.shields.io/badge/Youtube-%231DA1F2.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC6LDxFBJX7IhmfNTjotSn9Q) 
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%231DA1F2.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14925608/md-shakil-hosen) 
-[![Codeforces](https://img.shields.io/badge/codeforces-%1990CE.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shakil-Nx) 
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%231877F2.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14925608/md-shakil-hosen) 
+[![Codeforces](https://img.shields.io/badge/codeforces-%231877F2.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shakil-Nx) 
 
 
 
