@@ -54,7 +54,7 @@
  </p>
 <br/>
 
-## 🔷Current Strike
+## 🔷Current Streak
 <p align="center">
     <a href="https://github.com/md-shakil-hosen/github-readme-streak-stats">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shakil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=md-shakil-hosen&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
