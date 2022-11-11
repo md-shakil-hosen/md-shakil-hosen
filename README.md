@@ -76,7 +76,7 @@
 
 ## 🔍Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdshakil.hosennx) 
-[![Instagram](https://img.shields.io/badge/Instagram-%FF008A.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shakil_nx/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%231877F2.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shakil_nx/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shakil-hosen/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nx_shakil) 
 [![Discord](https://img.shields.io/badge/Discord-%231DA1F2.svg?logo=Discord&logoColor=white)](https://discord.com/channels/1031213306150662194/1031213306150662196)
