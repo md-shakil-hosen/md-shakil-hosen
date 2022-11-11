@@ -76,15 +76,17 @@
 
 ## 🔍Connect with me:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mdshakil.hosennx) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shakil_nx/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%FF008A.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/shakil_nx/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-shakil-hosen/) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/nx_shakil) 
 [![Discord](https://img.shields.io/badge/Discord-%231DA1F2.svg?logo=Discord&logoColor=white)](https://discord.com/channels/1031213306150662194/1031213306150662196)
 [![Skype](https://img.shields.io/badge/skype-%231DA1F2.svg?logo=skype&logoColor=white)](https://www.skype.com/live:.cid.c6e5fa29e3e4f179)
 [![Dribbble](https://img.shields.io/badge/dribbble-%231DA1F2.svg?logo=dribbble&logoColor=white)](https://dribbble.com/nx_shakil)
-[![YouTube](https://img.shields.io/badge/Youtube-%23E4405F.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC6LDxFBJX7IhmfNTjotSn9Q) 
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%23E4405F.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14925608/md-shakil-hosen) 
-[![Codeforces](https://img.shields.io/badge/codeforces-%[B11B1C](https://codeforces.com/profile/Shakil-Nx?csrf_token=9ac851452db525422f7bd77f097860b6).svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shakil-Nx?csrf_token=9ac851452db525422f7bd77f097860b6) 
+[![YouTube](https://img.shields.io/badge/Youtube-%231DA1F2.svg?logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC6LDxFBJX7IhmfNTjotSn9Q) 
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-%231DA1F2.svg?logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/14925608/md-shakil-hosen) 
+[![Codeforces](https://img.shields.io/badge/codeforces-%1990CE.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/Shakil-Nx) 
+
+
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
